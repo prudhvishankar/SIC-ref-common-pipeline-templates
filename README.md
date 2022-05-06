@@ -1,0 +1,1 @@
+# SIC-ref-common-pipeline-templates
